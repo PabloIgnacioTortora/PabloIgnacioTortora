@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### 🌱currently learning ...
+### Me name is Pablo i'm Web developer autodidact, here leave and share me code...
 <!--
 **PabloIgnacioTortora/PabloIgnacioTortora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
