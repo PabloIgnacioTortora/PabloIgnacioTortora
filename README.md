@@ -26,7 +26,7 @@
 
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link)
